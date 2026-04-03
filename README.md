@@ -174,7 +174,7 @@ Custom remote desktop implementation bridging networking and systems programming
 
 🥇 **First Prize** — Cryptic Quest, National Level Technical Symposium, CIT Coimbatore
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Athish-Pranav&theme=darkhub&no-frame=true&row=1&column=6&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Athish-Pranav&theme=onedark&no-frame=true&row=1&column=6&margin-w=4)
 
 </div>
 
