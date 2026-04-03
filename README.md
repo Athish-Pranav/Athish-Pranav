@@ -1,25 +1,36 @@
 <div align="center">
 
+```
+█████╗ ████████╗██╗  ██╗██╗███████╗██╗  ██╗    ██████╗ ██████╗  █████╗ ███╗   ██╗ █████╗ ██╗   ██╗
+██╔══██╗╚══██╔══╝██║  ██║██║██╔════╝██║  ██║    ██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗██║   ██║
+███████║   ██║   ███████║██║███████╗███████║    ██████╔╝██████╔╝███████║██╔██╗ ██║███████║██║   ██║
+██╔══██║   ██║   ██╔══██║██║╚════██║██╔══██║    ██╔═══╝ ██╔══██╗██╔══██║██║╚██╗██║██╔══██║╚██╗ ██╔╝
+██║  ██║   ██║   ██║  ██║██║███████║██║  ██║    ██║     ██║  ██║██║  ██║██║ ╚████║██║  ██║ ╚████╔╝
+╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Athish+Pranav+%F0%9F%91%8B;AI+%26+ML+Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+Intelligent+Systems+%F0%9F%A4%96;Deep+Learning+%7C+Computer+Vision+%7C+LLMs;Let's+build+something+amazing!+%F0%9F%9A%80)](https://git.io/typing-svg)
+# Hey, I'm Athish Pranav S V 👋
+
+### `AI & ML Engineer` · `Deep Learning` · `Computer Vision` · `LLMs`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athish-pranav-s-v/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Athish-Pranav)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athishpranav395@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Athish-Pranav&color=58a6ff&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Athish-Pranav&color=58a6ff&style=flat-square&label=profile+views)
 
 </div>
 
 ---
 
 ## 🧠 About Me
+
 ```python
 class AthishPranav:
     def __init__(self):
         self.name       = "Athish Pranav S V"
         self.role       = "AI & ML Engineer"
-        self.education  = "M.Sc (Integrated) AI & ML @ CIT, Coimbatore (2021–2026)"
+        self.education  = "M.Sc (Integrated) in AI & ML @ CIT, Coimbatore (2021–2026)"
         self.experience = "ML Research Intern @ Universiti Malaya, Malaysia"
         self.location   = "Coimbatore, India 🇮🇳"
         self.focus      = ["Deep Learning", "Computer Vision", "NLP", "LLMs", "Audio ML"]
@@ -40,11 +51,11 @@ me.say_hi()
 ### 🏛️ Machine Learning Research Intern — [Universiti Malaya](https://um.edu.my/), Kuala Lumpur 🇲🇾
 `Jul 2024 – Oct 2024`
 
-- 🔧 Designed & deployed **scalable ML models** for real-time audio processing
-- ⚡ Built ETL pipelines cutting data preparation time by **40%**
-- 📈 Achieved **18% improvement in model accuracy** via hyperparameter tuning
-- 🧪 Executed **30+ model evaluation tests** with actionable optimization insights
-- 🤝 Collaborated across **5 cross-functional teams**
+- 🔧 Designed & deployed **scalable ML models** for real-time audio processing, integrating with production systems
+- ⚡ Built ETL pipelines that cut data preparation time by **40%** through automation
+- 📈 Achieved **18% improvement in model accuracy** through systematic hyperparameter tuning
+- 🧪 Executed **30+ model evaluation tests** delivering actionable optimization insights
+- 🤝 Collaborated across **5 cross-functional teams** (data scientists, engineers, product managers)
 
 ---
 
@@ -55,9 +66,10 @@ me.say_hi()
 <td width="50%">
 
 ### 🔬 Skin Cancer Classification
-**96.27% accuracy** — End-to-end deep learning pipeline for multi-class skin cancer detection.
-- Custom CNN with advanced augmentation
-- **+20% accuracy** | **-50% diagnostic errors**
+**96.27% accuracy** — End-to-end deep learning pipeline using TensorFlow & PyTorch for multi-class skin cancer detection.
+- Custom CNN architecture with advanced augmentation
+- **+20% accuracy** | **-30% misclassifications**
+- **-50% diagnostic errors** through optimization
 
 `TensorFlow` `PyTorch` `CNN` `Computer Vision`
 
@@ -69,9 +81,10 @@ me.say_hi()
 ### 🎵 Music Genre Classification
 **93.4% accuracy** on 1,000-song dataset using KNN + MFCC feature extraction.
 - 95% accuracy MFCC pipeline
-- Integrated recommendation system
+- **-30% preprocessing time**
+- Integrated with a personalized recommendation system
 
-`scikit-learn` `MFCC` `Audio ML`
+`scikit-learn` `MFCC` `Audio ML` `Signal Processing`
 
 [→ View Repo](https://github.com/Athish-Pranav/Music-Emotion-Recognition)
 
@@ -81,17 +94,18 @@ me.say_hi()
 <td width="50%">
 
 ### 🧠 RAG Document QA System
-Retrieval Augmented Generation with **Llama 3 (8B)**, LangChain & ChromaDB.
+Retrieval Augmented Generation system with **Llama 3 (8B)**, LangChain & ChromaDB.
 - **75% memory reduction** via 4-bit quantization
-- **Sub-30s** responses on complex documents
+- Processes **400+ document chunks** with sentence transformers
+- **Sub-30s query responses** on complex legal documents
 
-`Llama3` `LangChain` `ChromaDB` `LLMs`
+`Llama3` `LangChain` `ChromaDB` `LLMs` `Vector Search`
 
 </td>
 <td width="50%">
 
 ### 🖥️ Remote Desktop Access
-Custom remote desktop bridging networking and systems programming.
+Custom remote desktop implementation bridging networking and systems programming.
 
 `Python` `Networking` `Systems`
 
@@ -166,21 +180,11 @@ Custom remote desktop bridging networking and systems programming.
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Athish-Pranav&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=1f6feb&point=58a6ff)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/Athish-Pranav/Athish-Pranav/blob/output/github-contribution-grid-snake-dark.svg)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Athish-Pranav&theme=github-compact&hide_border=true&area=true)
 
 </div>
 
@@ -188,6 +192,15 @@ Custom remote desktop bridging networking and systems programming.
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer&animation=fadeIn)
+### 💬 Let's connect and build something intelligent together!
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athish-pranav-s-v/)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athishpranav395@gmail.com)
+
+---
+
+*"The best way to predict the future is to build it."*
+
+⭐ **If you find my work interesting, consider starring a repo!** ⭐
 
 </div>
