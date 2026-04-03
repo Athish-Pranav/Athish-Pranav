@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Athish%20Pranav%20S%20V&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision%20%7C%20LLMs&descAlignY=58&descSize=18&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Athish%20Pranav%20S%20V&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision&descAlignY=58&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Athish+Pranav+%F0%9F%91%8B;AI+%26+ML+Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+Intelligent+Systems+%F0%9F%A4%96;Deep+Learning+%7C+Computer+Vision+%7C+LLMs;Let's+build+something+amazing!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
